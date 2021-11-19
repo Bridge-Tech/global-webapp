@@ -1,0 +1,21 @@
+.body{
+	font-family: fangsong; 
+	background-color: #e3efff; 
+}	
+.card {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 55rem;
+
+    transform: translate(-50%, -50%);
+}
+.card-body{
+background-color:#efefef;
+}
+.card-text{
+	background-color:#e7f0e7;
+}
+.sectionText{
+	margin: 2rem;
+}

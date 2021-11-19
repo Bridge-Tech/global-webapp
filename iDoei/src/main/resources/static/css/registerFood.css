@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.card{
+	margin:10px;
+}
+.row{
+	margin:10px;
+}
+.btn-group{
+	margin-left:73%;
+}
+.btn{
+	border-radius: 10px;
+}

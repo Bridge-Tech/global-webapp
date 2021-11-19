@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.body{
+    background-color: #b6e6ef;
+}
+.img-fluid {
+    max-width: 75%;
+    height: auto;
+}
+.homeImage{
+	text-align-last: center;
+}
+.scrollspy-example{
+	position:relative;
+}

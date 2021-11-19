@@ -1,0 +1,10 @@
+br\com\fiap\iDoei\config\SecuriryConfiguration.class
+br\com\fiap\iDoei\model\Role.class
+br\com\fiap\iDoei\model\Person.class
+br\com\fiap\iDoei\controller\OngController.class
+br\com\fiap\iDoei\controller\PersonController.class
+br\com\fiap\iDoei\repository\PersonRepository.class
+br\com\fiap\iDoei\model\Ong.class
+br\com\fiap\iDoei\repository\OngRepository.class
+br\com\fiap\iDoei\service\AuthenticationService.class
+br\com\fiap\iDoei\IDoeiApplication.class
